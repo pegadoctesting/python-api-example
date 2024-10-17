@@ -4,5 +4,6 @@ flask_restful
 pyairtable
 gunicorn
 yfinance
-urllib3 == 1.26.6
 pandas-ta
+urllib3 == 1.26.6
+numpy==1.26.4
